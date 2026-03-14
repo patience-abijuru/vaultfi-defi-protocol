@@ -1,0 +1,5 @@
+describe("VaultFi", function () {
+  it("placeholder test", function () {
+    // tests will be added later
+  });
+});

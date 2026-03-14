@@ -1,0 +1,11 @@
+async function main() {
+
+  console.log("VaultFi deployment script");
+
+  console.log("This script will deploy the VaultFi contract to the blockchain.");
+
+  console.log("Deployment functionality will be implemented later.");
+
+}
+
+main();
